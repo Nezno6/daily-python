@@ -1,11 +1,5 @@
 def swap_case(input_string: str):
-    new_string = ""
-    for c in input_string:
-        if c == c.lower():
-            new_string = new_string + c.upper()
-        else:
-            new_string = new_string + c.lower()
-    return new_string
+    return ''.join([char_from_string.upper() if char_from_string == char_from_string.lower() else char_from_string.lower() for char_from_string in input_string])
 
 if __name__ == '__main__':
     s = input()
