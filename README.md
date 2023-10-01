@@ -1,2 +1,35 @@
-# stpython
+# daily-python
 Python daily task including Harvard CS50’s Introduction to Programming with Python
+
+1. https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true
+2. https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
+3. https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true
+4. https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true
+5. https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true
+6. https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true
+7. https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true
+8. https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true
+9. https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true
+10. https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true
+11. https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true
+12. https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true
+13. https://www.hackerrank.com/challenges/python-tuples/problem?isFullScreen=true
+14. https://www.hackerrank.com/challenges/swap-case/problem?isFullScreen=true
+15. https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true
+16. https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true
+17. https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true
+18. https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true
+19. https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true
+20. https://www.hackerrank.com/challenges/text-alignment/problem?isFullScreen=true
+21. https://www.hackerrank.com/challenges/text-wrap/problem?isFullScreen=true
+22. https://www.hackerrank.com/challenges/python-string-formatting/problem?isFullScreen=true
+23. https://www.hackerrank.com/challenges/alphabet-rangoli/problem?isFullScreen=true
+24. https://www.hackerrank.com/challenges/capitalize/problem?isFullScreen=true
+25. https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true
+26. https://www.hackerrank.com/challenges/word-order/problem?isFullScreen=true
+27. https://www.hackerrank.com/challenges/python-sort-sort/problem?isFullScreen=true
+28. https://cs50.harvard.edu/python/2022/psets/1/deep/
+29. https://cs50.harvard.edu/python/2022/psets/1/extensions/
+30. https://cs50.harvard.edu/python/2022/psets/2/nutrition/
+31. https://cs50.harvard.edu/python/2022/psets/1/extensions/
+32. https://cs50.harvard.edu/python/2022/psets/2/nutrition/
